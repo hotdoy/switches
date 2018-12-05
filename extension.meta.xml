@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="switches" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Switches</name>
+	<description>Replace all checkboxes with switches</description>
+	<types>
+		<type>Navigation</type>
+	</types>
+	<authors>
+		<author>
+			<name github="hotdoy" symphony="hotdoy">Vincent Rouleau</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2018-12-05" min="2.x.x" max="2.x.x"/>
+	</releases>
+</extension>
